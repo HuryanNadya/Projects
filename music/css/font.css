@@ -1,0 +1,13 @@
+
+
+@font-face {
+    font-family: 'myanmar_khyayregular';
+    src: url('../font/myanmarkhyay-webfont.eot');
+    src: url('../font/myanmarkhyay-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../font/myanmarkhyay-webfont.woff') format('woff'),
+    url('../font/myanmarkhyay-webfont.ttf') format('truetype'),
+    url('../font/myanmarkhyay-webfont.svg#myanmar_khyayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
